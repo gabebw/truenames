@@ -62,7 +62,6 @@ end
 
 ## TODO
 
-* Make actual output more closely match README
 * Is formatting of ambiguous cases, especially inside lists, helpful?
   Would permutations be better? E.g.:
   "(a, b, c or d)" vs "(a, b, c) or (a, b, d)"
